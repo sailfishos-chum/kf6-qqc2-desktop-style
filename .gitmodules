@@ -1,0 +1,3 @@
+[submodule "upstream"]
+	path = upstream
+	url = https://invent.kde.org/frameworks/qqc2-desktop-style.git
